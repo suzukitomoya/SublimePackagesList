@@ -1,6 +1,6 @@
 [
     {
-        "caption": "PackagesList: Output packages list to newtab",
+        "caption": "PackagesList: Output installed packages list to current tab",
         "command": "packages_list"
     }
 ]
