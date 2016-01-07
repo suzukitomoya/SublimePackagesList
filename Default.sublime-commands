@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "PackagesList: Output packages list to newtab",
+        "command": "packages_list"
+    }
+]
